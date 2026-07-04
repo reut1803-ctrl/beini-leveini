@@ -1,0 +1,12 @@
+{
+  "name": "ביני לביני",
+  "short_name": "ביני לביני",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#faf3e6",
+  "theme_color": "#f6efe1",
+  "orientation": "portrait",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": []
+}
